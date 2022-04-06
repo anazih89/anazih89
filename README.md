@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anazih89
+- 👀 I’m interested in Business Intelligence applications and Data science
+- 🌱 I’m currently working on Microstrategy and Talend Tools
+- 💞️ I’m looking to collaborate on BI and BIGDATA
